@@ -1,4 +1,4 @@
-# Speech Partner.English
+# SpeechPartner.English
 
 Een gratis, offline werkende app (PWA) om Engels te gebruiken in gesprekken. Geen account, geen server, geen kosten.
 

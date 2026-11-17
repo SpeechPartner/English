@@ -1,6 +1,6 @@
 {
-  "name": "Speech Partner.English",
-  "short_name": "SP English",
+  "name": "SpeechPartner.English",
+  "short_name": "SpeechPartner.English",
   "description": "Zinnen, vertaling en oefening voor een gesprek in het Engels.",
   "lang": "nl",
   "start_url": "./",
